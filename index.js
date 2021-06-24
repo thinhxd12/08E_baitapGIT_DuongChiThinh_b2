@@ -21,3 +21,5 @@ function done(){
     console.log('done All');
 }
 done();
+
+console.log('done all !!');
